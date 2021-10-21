@@ -7,7 +7,7 @@ type Props = {};
 class Document extends NextDocument<Props> {
     render() {
         return (
-            <Html lang="en">
+            <Html lang="en" className="bg-bg text-secondary" >
                 <Head>
                     {/* Create all your favicons and put them inside public/favicons folder */}
                     <link
@@ -36,7 +36,7 @@ class Document extends NextDocument<Props> {
                     <meta name="msapplication-TileColor" content="#454545" />
                     <meta name="theme-color" content="#454545" />
                 </Head>
-                <body className="">
+                <body className="bg-bg text-secondary ">
                     <Main />
                     <NextScript />
                 </body>

@@ -1,7 +1,7 @@
 import { NextSeoProps } from "next-seo";
 
 const config: NextSeoProps = {
-    title: "Title of your website/app",
+    title: "Skylark Automations",
     description: "Description",
     openGraph: {
         type: 'website',

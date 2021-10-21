@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-typescript-tailwindcss-framer-motion-starter",
+  "name": "skylark-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "daisyui": "^1.14.4",
     "framer-motion": "^4.1.17",
     "next": "11.1.2",
     "next-seo": "^4.26.0",

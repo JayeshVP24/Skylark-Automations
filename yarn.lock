@@ -959,6 +959,11 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.8.tgz#d2266a792729fb227cd216fb572f43728e1ad340"
   integrity sha512-jXKhWqXPmlUeoQnF/EhTtTl4C9SnrxSH/jZUih3jmO6lBKr99rP3/+FmrMj4EFpOXzMtXHAZkd3x0E6h6Fgflw==
 
+daisyui@^1.14.4:
+  version "1.14.4"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.14.4.tgz#c7c7ad4c74ace7253b49c103c5076b414ec0c84d"
+  integrity sha512-IfJhEMxG9LtlmJ9ViCGe8Y3PB02IRzqIRYqJS4S1MJPIs2MaQiQMZw3v1baXfmuRCFOyLOfxGbtt+aowS8bBhA==
+
 damerau-levenshtein@^1.0.6:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/damerau-levenshtein/-/damerau-levenshtein-1.0.7.tgz#64368003512a1a6992593741a09a9d31a836f55d"
